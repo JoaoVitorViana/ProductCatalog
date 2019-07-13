@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao Viana\\Documents\\GitHub\\ProductCatalog\\ProductCatalog.csproj": {}
+    "C:\\Projetos\\ProductCatalog\\ProductCatalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao Viana\\Documents\\GitHub\\ProductCatalog\\ProductCatalog.csproj": {
+    "C:\\Projetos\\ProductCatalog\\ProductCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao Viana\\Documents\\GitHub\\ProductCatalog\\ProductCatalog.csproj",
+        "projectUniqueName": "C:\\Projetos\\ProductCatalog\\ProductCatalog.csproj",
         "projectName": "ProductCatalog",
-        "projectPath": "C:\\Users\\Joao Viana\\Documents\\GitHub\\ProductCatalog\\ProductCatalog.csproj",
+        "projectPath": "C:\\Projetos\\ProductCatalog\\ProductCatalog.csproj",
         "packagesPath": "C:\\Users\\Joao Viana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao Viana\\Documents\\GitHub\\ProductCatalog\\obj\\",
+        "outputPath": "C:\\Projetos\\ProductCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
